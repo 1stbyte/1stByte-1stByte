@@ -57,11 +57,13 @@ hobbies: ["Gaming", "3D printing", "Building PC's", "Reading", "Learning"]
 ```
 
 
-<a href="https://github.com/1stByte/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=1stByte&show_icons=true&theme=onedark&rank_icon=github" />
-</a>
-<a href="https://github.com/1stByte/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1stByte&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</a>
+<p align="center">
+  <a href="https://github.com/1stByte/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=1stByte&show_icons=true&theme=onedark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/1stByte/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=1stByte&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+  </a>
+</p>
 
 ![Snake animation](https://github.com/1stByte/1stByte/blob/output/github-contribution-grid-snake-dark.svg)
