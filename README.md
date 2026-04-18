@@ -64,4 +64,4 @@ hobbies: ["Gaming", "3D printing", "Building PC's", "Reading", "Learning"]
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1stByte&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </a>
 
-![Snake animation](https://github.com/1stByte/1stByte/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/1stByte/1stByte/blob/output/github-contribution-grid-snake-dark.svg)
