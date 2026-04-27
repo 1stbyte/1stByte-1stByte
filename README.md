@@ -90,7 +90,7 @@ hobbies: ["Gaming", "3D printing", "Building PC's", "Reading", "Hackthebox", "Tr
   <img width="48%"
        src="https://github-readme-stats.vercel.app/api?username=1stByte&show_icons=true&theme=onedark&rank_icon=github" />
   <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=1stByte&layout=compact&langs_count=8&theme=onedark" />
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=1stByte&layout=compact&langs_count=8&theme=onedark&cache_seconds=1800" />
 </p>
 
 ![Snake animation](https://github.com/1stByte/1stByte/blob/output/github-contribution-grid-snake-dark.svg)
