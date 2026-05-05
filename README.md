@@ -87,8 +87,8 @@ hobbies: ["Gaming", "3D printing", "Building PC's", "Reading", "Hackthebox", "Tr
 
 <!-- Stats Cards -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/onedark/3-stats.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/onedark/1-repos-per-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/1stByte/1stByte/main/profile-summary-card-output/onedark/3-stats.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/1stByte/1stByte/main/profile-summary-card-output/onedark/1-repos-per-language.svg" width="45%" />
 </p>
 
 <!-- Snake -->
