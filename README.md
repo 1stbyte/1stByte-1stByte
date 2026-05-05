@@ -85,12 +85,13 @@ hobbies: ["Gaming", "3D printing", "Building PC's", "Reading", "Hackthebox", "Tr
 
 </p>
 
-
+<!-- Stats Cards -->
 <p align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=1stByte&show_icons=true&theme=onedark&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=7200" />
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=1stByte&layout=compact&langs_count=8&theme=onedark&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/onedark/3-stats.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/onedark/1-repos-per-language.svg" width="45%" />
 </p>
 
-![Snake animation](https://github.com/1stByte/1stByte/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1stByte/1stByte/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
